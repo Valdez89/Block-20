@@ -11,7 +11,7 @@ const users = [
 // Looping the users array below through the main function.
 
 function main() {
-    const rootElement = document.querySelector("#root"); 
+    const rootElement = document.querySelector("root"); 
 
     const h1 = document.createElement("h1");
 
